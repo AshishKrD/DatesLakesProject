@@ -1,4 +1,4 @@
-# Udacity NanaoDegree DataLakesProject
+# Udacity Nano Degree: DataLakesProject
 
 **Introduction**
 
