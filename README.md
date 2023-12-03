@@ -8,10 +8,9 @@ As part of data engineering we need to build an ETL pipeline that extracts data 
 
 **Data Sets Used for Data Input**
 
-Dataset consists of two JSON files present at below location:
+Dataset consists of two JSON files (Songs and Log Data files) present at below location:
 
-1.Song data: s3://udacity-dend/song_data
-2.Log data: s3://udacity-dend/log_data
+Song data: s3://udacity-dend/song_data and Log data: s3://udacity-dend/log_data
 
 
 **This project contains the following files which are required to execute it:**
