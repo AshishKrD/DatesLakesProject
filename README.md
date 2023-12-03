@@ -10,8 +10,8 @@ As part of data engineering we need to build an ETL pipeline that extracts data 
 
 Dataset consists of two JSON files present at below location:
 
-Song data: s3://udacity-dend/song_data
-Log data: s3://udacity-dend/log_data
+1.Song data: s3://udacity-dend/song_data
+2.Log data: s3://udacity-dend/log_data
 
 
 **This project contains the following files which are required to execute it:**
