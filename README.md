@@ -27,12 +27,12 @@ etl.py file:
 1. It reads the credentials from the dl.cfg file
 2. Loads the Song and Log data from the S3 location: s3://udacity-dend/song_data and s3://udacity-dend/log_data
 3. Processes the data using spark
-4. Loads it back to the S3 bucket: sparkify-dend-data-output/
+4. Loads it back to the S3 bucket
 
 
-**Tables Created**
+**Fact and Dimension Tables**
 
-Five tables are created as part of this project:
+Below are the fact and dimension tables
 
 1. Users: This is the dimension table having following columns: user_id, first_name, last_name, gender, level
 2. songs: This is the dimension table having following columns: song_id, title, artist_id, year, duration
